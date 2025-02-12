@@ -1,6 +1,10 @@
 # **CoScreen: A Powerful Tool for Seamless Remote Collaboration**  
 
+![Static Badge](https://img.shields.io/badge/Download-CoScreen-orange?style=for-the-badge&logo=github)
+
 In today’s fast-paced digital world, remote collaboration has become a necessity. Whether you're a software developer, a designer, or part of a distributed team, effective communication and teamwork are crucial for productivity. One tool that stands out in this space is **CoScreen**, a next-generation collaborative screen-sharing platform designed to enhance real-time teamwork.  
+
+![CoScreen](https://github.com/user-attachments/assets/5f739e7b-1dfc-48dc-88e6-3c3033c11f40)
 
 ## **What is CoScreen?**  
 
@@ -22,6 +26,8 @@ CoScreen is compatible with **Windows, macOS, and Linux**, making it accessible 
 
 ### 5. **Low-Latency Performance**  
 Unlike traditional remote desktop solutions, CoScreen offers a **low-latency experience**, ensuring smooth and responsive collaboration.  
+
+![CoScreen](https://github.com/user-attachments/assets/1f1eb58a-223d-4241-a3b5-a9fea9145c71)
 
 ## **Why Use CoScreen?**  
 
